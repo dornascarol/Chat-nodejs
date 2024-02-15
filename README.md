@@ -25,3 +25,35 @@ Na aplicação foi utilizado o <a href="https://nodejs.org/en/download" target="
 Framework Express na versão 4.18.2
 
 Biblioteca Socket.io na versão 4.7.4
+
+
+## Rodando o projeto
+- Para iniciar escreva no terminal:
+```
+npm init -y
+```
+  
+- Pra rodar o servidor escreva no terminal:
+```
+node ./servidor.js
+```
+
+- Parar de rodar o servidor: no terminal clicar nas teclas de "Ctrl" e "C".
+
+- Para instalar o Express escreva no terminal:
+```
+npm install express
+```
+
+- Para instalar o Socket.io escreva no terminal:
+```
+npm install socket.io
+```
+
+- Caminho da URL:
+```
+192.168.0.16:1000
+```
+
+## Status do projeto
+:heavy_check_mark: Aplicação finalizada.
