@@ -18,3 +18,10 @@ O objetivo é oferecer uma plataforma interativa para comunicação instantânea
 
 
 ## Ferramentas
+Na aplicação foi utilizado o <a href="https://nodejs.org/en/download" target="_blank" > Node.JS </a>  na versão 18.14.0 em LTS.
+
+
+## Dependências 
+Framework Express na versão 4.18.2
+
+Biblioteca Socket.io na versão 4.7.4
