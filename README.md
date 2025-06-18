@@ -1,13 +1,13 @@
 <h1> Chat :hash: </h1>
 <br>
 
-<h2> Este foi o projeto que aprendi no YouTube da Hashtag </h2>
-<p> Aplicação implementando a lógica do Chat, desde a configuração do Front-end até a criação do servidor Back-end utilizando Node.JS e Socket.io para comunicação em tempo real entre os usuários. </p>
+<h2> This was the project I learned on Hashtag's YouTube </h2>
+<p> Application implementing the Chat logic, from the Front-end configuration to the creation of the Back-end server using Node.JS and Socket.io for real-time communication between users. </p>
 
-<h2> Introdução </h2>
-O objetivo é oferecer uma plataforma interativa para comunicação instantânea entre usuários, tornando as conversas simples e acessíveis.
+<h2> Introduction </h2>
+The goal is to offer an interactive platform for instant communication between users, making conversations simple and accessible.
 
-## Tecnologias utilizadas
+## Technologies used
 * VS Code
 * HTML
 * CSS
@@ -17,43 +17,43 @@ O objetivo é oferecer uma plataforma interativa para comunicação instantânea
 * Socket.io
 
 
-## Ferramentas
-Na aplicação foi utilizado o <a href="https://nodejs.org/en/download" target="_blank" > Node.JS </a>  na versão 18.14.0 em LTS.
+## Tools
+The application used <a href="https://nodejs.org/en/download" target="_blank" > Node.JS</a>  version 18.14.0 in LTS.
 
 
-## Dependências 
-Framework Express na versão 4.18.2
+## Dependencies 
+Framework Express version 4.18.2
 
-Biblioteca Socket.io na versão 4.7.4
+Socket.io library in version 4.7.4
 
 
-## Rodando o projeto
-- Para iniciar escreva no terminal:
+## Running the project
+- To start, type in the terminal:
 ```
 npm init -y
 ```
   
-- Pra rodar o servidor escreva no terminal:
+- To run the server, type in the terminal:
 ```
 node ./servidor.js
 ```
 
-- Parar de rodar o servidor: no terminal clicar nas teclas de "Ctrl" e "C".
+- Stop running the server: in the terminal, click the "Ctrl" and "C" keys.
 
-- Para instalar o Express escreva no terminal:
+- To install Express, type in the terminal:
 ```
 npm install express
 ```
 
-- Para instalar o Socket.io escreva no terminal:
+- To install Socket.io, type in the terminal:
 ```
 npm install socket.io
 ```
 
-- Caminho da URL:
+- URL path:
 ```
 192.168.0.16:1000
 ```
 
-## Status do projeto
-:heavy_check_mark: Aplicação finalizada.
+## Project status
+:heavy_check_mark: Application completed.
